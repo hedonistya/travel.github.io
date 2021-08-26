@@ -240,7 +240,7 @@ input {
 }
 
 .nav__list {
-  display: flex;
+  display: -webkit-flex;
   flex-direction: column;
   row-gap: 2.5rem;
 }
